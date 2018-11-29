@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Manage Trip</string>
+    <string name="Textview1">Trip Name</string>
+    <string name="RadioButton1">City break</string>
+    <string name="RadioButton2">See side</string>
+    <string name="Radiobutton3">Mountains</string>
+    <string name="Textview2">Destination</string>
+    <string name="Textview3">Trip Type</string>
+    <string name="Textview4">Price(eur)</string>
+    <string name="Textview5">Start Date</string>
+    <string name="Textview6">End Date</string>
+    <string name="Button1">DD/MM/YYYY</string>
+    <string name="Textview7">Rating</string>
+    <string name="Button3">SAVE</string>
+    <string name="Button2">DD/MM/YYYY</string>
+
+</resources>
