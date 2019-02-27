@@ -16,12 +16,21 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="relativetrips.RelativeTripsActivity"> <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+        <activity android:name="relativetrips.RelativeTripsActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".Navigation" />
+        <activity android:name=".Appbar" />
+        <activity android:name=".Contentnav" />
+        <activity
+            android:name=".Drawer"
+            android:label="@string/title_activity_drawer"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>

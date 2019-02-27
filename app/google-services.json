@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "182349163529",
+    "firebase_url": "https://traveljurnal-1f7ec.firebaseio.com",
+    "project_id": "traveljurnal-1f7ec",
+    "storage_bucket": "traveljurnal-1f7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182349163529:android:9d11c1c0a26eb7e4",
+        "android_client_info": {
+          "package_name": "com.example.ioana.traveljournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182349163529-q2mfur47e34hrrbcm3sq7fe9rk42fn6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTX4U4dWg6wlWn5YY-mDE6v6aqtevuHMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
